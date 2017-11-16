@@ -1,4 +1,4 @@
-The Instrumented City is a concept for a combined wireless access and sensor network by [Commotion Wireless](https://commotionwireless.net) and [Throneless Tech](https://throneless.tech). It is powered by the (Clatter)[https://github.com/commotionwireless/clatter) encrypted network stack.
+The Instrumented City is a concept for a combined wireless access and sensor network by [Commotion Wireless](https://commotionwireless.net) and [Throneless Tech](https://throneless.tech). It is powered by the [Clatter](https://github.com/commotionwireless/clatter) encrypted network stack.
 
 The Instrumented City is a fully distributed, secure sensor and connectivity platform. An Instrumented City node is an inexpensive multi-radio device running open-source software. Each node is designed to connect to every other node via common radio protocols such as Wi-Fi, Zigbee, LoRa or other technologies.
 
