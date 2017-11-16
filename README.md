@@ -11,3 +11,7 @@ It is intended to create an easy to use platform for organizations and individua
 2. A rooftop network of high-powered wireless routers can spread access and connectivity over a wide area.
 3. Low-bandwidth network services can be spread to other, further away networks using long-distance wireless protocols like LoRa.
 4. LoRa and similar protocols can also be used to connect to an array of network sensors throughout a community, providing valuable data to the community.
+
+> sensor icon by Adnen Kadri from the Noun Project
+
+> modem icon by bezier master from the Noun Project
